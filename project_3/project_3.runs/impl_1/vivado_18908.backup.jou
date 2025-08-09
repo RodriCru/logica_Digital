@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Fri Jun 13 09:29:49 2025
+# Process ID: 18908
+# Current directory: C:/Users/luisr/Desktop/project_3/project_3.runs/impl_1
+# Command line: vivado.exe -log practica3.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source practica3.tcl -notrace
+# Log file: C:/Users/luisr/Desktop/project_3/project_3.runs/impl_1/practica3.vdi
+# Journal file: C:/Users/luisr/Desktop/project_3/project_3.runs/impl_1\vivado.jou
+# Running On: LAPTOP-PA6R7BEM, OS: Windows, CPU Frequency: 1190 MHz, CPU Physical cores: 4, Host memory: 12681 MB
+#-----------------------------------------------------------
+source practica3.tcl -notrace
